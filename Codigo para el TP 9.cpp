@@ -5,8 +5,6 @@
 
 using namespace::std;
 
-//prueba uwu aver si anda esto
-
 // ESTRUCTURA Y PROTOTIPOS DEL EJERCICIO 1
 
 struct Nodo1
